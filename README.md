@@ -1,2 +1,3 @@
 # competition_for_HUAWEIBEI
 华为杯竞赛所用
+一个智能识别图片中北极熊的人工智能程序
