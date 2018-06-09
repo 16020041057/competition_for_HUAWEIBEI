@@ -1,1 +1,1 @@
-picture for testing
+pictures for testing
