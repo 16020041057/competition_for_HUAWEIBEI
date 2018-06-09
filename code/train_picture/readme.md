@@ -1,1 +1,1 @@
-picture for training.
+pictures for training.
